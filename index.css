@@ -1,0 +1,8 @@
+.main-body {display: flex; justify-content: space-between; 
+}
+.item { margin: 100px; padding: 80;}
+.item-title { font-size: 20px; text-align: center;}
+.title {text-align: center; padding-top: 20px; ;}
+.subtitle {text-align: center; padding-top: 20px;}
+.item-text {text-align: center; padding-top: 20px;  }
+.img {text-align: center; padding: 20px;}
